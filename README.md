@@ -74,5 +74,3 @@ docker-compose exec franken php artisan migrate
 - PhpMyAdmin accessible at localhost:9001
 - Main application runs on localhost:9800
 
-## Contact
-For any questions about these changes, please refer to the documentation or contact the development team.
